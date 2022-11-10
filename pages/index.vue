@@ -1,3 +1,6 @@
+<template>
+  <Glitch />
+</template>
 
 <style>
 body {
