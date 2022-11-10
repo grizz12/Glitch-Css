@@ -17,6 +17,10 @@ $ npm run start
 $ npm run generate
 ```
 
+# Preview
+![Screenshot_2022-11-10_12-38-32](https://user-images.githubusercontent.com/83684256/201013511-5ff0d178-6e5a-45ed-982b-2f8cbcfc569e.png)
+
+
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
 ## Special Directories
