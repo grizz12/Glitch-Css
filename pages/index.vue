@@ -1,9 +1,8 @@
-<template>
-  <Tutorial/>
-</template>
 
-<script>
-export default {
-  name: 'IndexPage'
+<style>
+body {
+	 background: black;
+	 font-family: "Oswald", sans-serif;
+	 font-style: italic;
 }
-</script>
+</style>
